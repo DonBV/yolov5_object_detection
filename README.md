@@ -2,6 +2,14 @@
 
 This project demonstrates object detection using YOLOv5 and OpenCV on a live video stream from Twitch.
 
+## Minimum System Requirements
+
+- **CPU**: Intel Core i5 or equivalent
+- **RAM**: 8 GB
+- **Storage**: 1 GB free space
+- **GPU**: NVIDIA GTX 1050 or equivalent with 4 GB VRAM
+- **OS**: Windows 10 or equivalent
+
 ## Installation
 
 Clone the repository and install the required dependencies:
