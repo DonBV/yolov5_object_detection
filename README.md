@@ -10,6 +10,10 @@ This project demonstrates object detection using YOLOv5 and OpenCV on a live vid
 - **GPU**: NVIDIA GTX 1050 or equivalent with 4 GB VRAM
 - **OS**: Windows 10 or equivalent
 
+# License
+
+This project is licensed under the MIT License.
+
 ## Installation
 
 Clone the repository and install the required dependencies:
